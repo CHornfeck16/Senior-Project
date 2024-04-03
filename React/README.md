@@ -6,3 +6,7 @@
 # Start the app
 In command prompt under file path  
 `npx expo start`
+
+# Start the server  
+In command prompt under file path  
+`python -m uvicorn main:app --reload`
